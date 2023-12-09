@@ -13,3 +13,4 @@ tar.close()
 
 # download 
 os.chdir("C:\\Program Files\\textractor\\bin")
+URL = ""
